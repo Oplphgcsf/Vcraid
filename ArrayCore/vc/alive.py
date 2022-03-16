@@ -27,7 +27,7 @@ async def _Alive(_, e: Message):
             ids += 1
         if Venom6:
             ids += 1
-        if Venom7: 
+        if Venom7:
             ids += 1
         if Venom8:
             ids += 1
