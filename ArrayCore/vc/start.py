@@ -10,7 +10,7 @@ from .. import vcbot, SUDO_USERS, HNDLR, hl, START_VID
    # video=START_VID,
   # await vcbot.send_video(e.chat.id, video, f"Vc Raid Bot Is Working Fine. \nSend `{hl}help` To Know Your Commands. \n\n< Powered By @ArrayCore >")
 
-Array = "https://telegra.ph/file/fea7a0ef15a02dd5e4aac.jpg"
+Array = "https://te.legra.ph/file/045d419efd37fd56e8562.jpg"
 Hn = "/"
 @vcbot.on_message(filters.private & filters.incoming & filters.command(['start'], prefixes=Hn))
 async def _start(_, ok: Message):
